@@ -5,6 +5,8 @@
 # @File     :run.py
 # @Software :PyCharm Community Edition
 
+import sys
+sys.path.append('./')
 import unittest
 import HTMLTestRunnerNew
 
